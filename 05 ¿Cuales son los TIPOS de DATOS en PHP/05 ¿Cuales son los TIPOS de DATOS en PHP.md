@@ -9,17 +9,20 @@
 
 ## Enteros (integer)
 ```php
+<?php
     echo 10;
     echo -10;   
 ```
 
 ## Flotantes (double)
 ```php
+<?php
     echo 7.1;
     echo 8585.32;
 ```
 ## Cadenas (string)
 ```php
+<?php
     echo 'Hola mundo';
     echo "Chau mundo";
 ```
