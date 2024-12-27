@@ -13,7 +13,7 @@
 
 ## Sintaxis en PHP
 ### Etiqueta de apertura y cierre
-```
+```php
 <?php 
 
 ?>
@@ -21,7 +21,7 @@
 
 
 ### Salidas a pantalla
-```
+```php
 <?php
     echo "Hola mundo, esto es una salida a pantalla";
 ```
