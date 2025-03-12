@@ -9,7 +9,7 @@ Se utilizan para validar formularios desde el frontend y desde el backend
 ```
 `pattern` => defino las minusculas y mayusculas aceptadas y luego la cantidad de caracteres aceptados.
  
-`maxlength` => Deja de escribir a los 10 caracteres
+`maxlength` => Deja de escribir a los 10 caracteres.
 ## Backend
 ```php
 <?php
